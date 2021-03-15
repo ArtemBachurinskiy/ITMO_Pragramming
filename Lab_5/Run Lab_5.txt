@@ -1,0 +1,6 @@
+javac Main.java
+jar cfe Main.jar Main Main.class
+
+
+java -jar /home/s286526/Programming/Lab_5/out/artifacts/Lab_5_jar/Lab_5.jar Movies.xml
+
